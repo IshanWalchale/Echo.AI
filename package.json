@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@supabase/auth-ui-react": "^0.4.7",
+    "@supabase/auth-ui-shared": "^0.1.8",
+    "@supabase/supabase-js": "^2.49.4",
+    "ai": "^4.1.46",
+    "axios": "^1.9.0",
+    "katex": "^0.16.22",
+    "react-joyride": "^2.9.3",
+    "react-katex": "^3.1.0",
+    "react-markdown": "^10.1.0",
+    "styled-components": "^6.1.18"
+  }
+}
