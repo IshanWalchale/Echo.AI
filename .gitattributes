@@ -1,0 +1,23 @@
+# --- Python ---
+*.py linguist-detectable=true
+
+# --- React / Frontend ---
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+
+# --- Ignore non-core files ---
+*.html linguist-vendored
+*.css linguist-vendored
+*.scss linguist-vendored
+*.sass linguist-vendored
+*.dockerfile linguist-vendored
+Dockerfile linguist-vendored
+
+# --- Ignore build / generated files ---
+*.min.js linguist-generated
+*.bundle.js linguist-generated
+build/* linguist-generated
+dist/* linguist-generated
+node_modules/* linguist-vendored
