@@ -94,3 +94,13 @@ Set these environment variables or create a `.env` file:
 ## License
 
 MIT License
+
+ScreenShots of Echo.AI
+
+<img width="1917" height="909" alt="ui1" src="https://github.com/user-attachments/assets/9243bcd2-08f7-41de-a9bd-69bcc093c229" />
+
+![ui](https://github.com/user-attachments/assets/0f1f6da2-fde3-4d66-bb86-ff44117d18eb)
+
+
+
+
